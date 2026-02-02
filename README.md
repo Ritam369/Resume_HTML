@@ -4,7 +4,7 @@ This repository contains my resume built using HTML only. This project was devel
 
 ## Live Preview 
 
-View the live resume: [https://ritam369.github.io/Resume_HTML/](https://ritam369.github.io/Resume_HTML/)
+View the live resume: [Link](https://ritam369.github.io/Resume_HTML/)
 ![Resume Preview](assets/Resume_page.jpg)
 
 ## Getting Started
